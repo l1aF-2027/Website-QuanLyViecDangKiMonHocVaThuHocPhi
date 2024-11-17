@@ -7,11 +7,11 @@
 | Nguyễn Duy Hoàng | 22520467 |
 | Nguyễn Hoàng Hiệp | 22520452 |
 ## Demo Video
-<<<<<<< HEAD
-<video src="https://user-images.githubusercontent.com/l1aF-2027/Website-QuanLyViecDangKiMonHocVaThuHocPhi/video%20hướng%20dẫn.mp4" width="320" height="240" controls></video>
-=======
-<video src="https://drive.google.com/file/d/1lNPLuok3JuRnqJx6sZ8Y5J6ehBzaQ8u1/view?usp=sharing" width="500" height="500" controls></video>
->>>>>>> bab949905eeece466933acd6a576ffc71c291fb5
+
+
+https://github.com/user-attachments/assets/a44b4ff8-aed7-4755-9d45-7003a25b69e7
+
+
 
 ## Project Description
 [Website quản lý việc đăng ký môn học và thu học phí]
